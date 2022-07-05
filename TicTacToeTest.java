@@ -72,7 +72,7 @@ public class TicTacToeTest {
 			count++;
 
 		}
-		System.out.println("IT'S A TIE");
+		System.out.println("IT'S A DRAW");
 	}
 
 }
